@@ -1,7 +1,7 @@
 
 import self1 from "../img/self1.jpeg"
 
-export let colors = ["rgb(255,100,100)", "rgb(255,255,255)"];
+export let colors = ["rgb(100,255,100)", "rgb(255,255,255)"];
 
 export const info = {
     firstName: "Anke",
